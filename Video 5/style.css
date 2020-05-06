@@ -1,0 +1,18 @@
+/*text Styling*/
+
+h1{
+	font-size: 100px;
+	color: coral;
+	text-transform: uppercase;
+}
+
+p{
+	text-indent: 100px;
+	text-decoration: underline;
+	text-transform: capitalize;
+	letter-spacing: 5px;
+
+}
+a{
+	text-decoration: none;
+}
